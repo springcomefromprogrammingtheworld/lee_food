@@ -1,6 +1,6 @@
 const formidable  = require('formidable');
 const Common      = require("../util/Common");
-const signkey     = 'CE0A93003F444DC4704581DF9AF4E0B2';
+const signkey     = '';
 
 /**
  * 判断客户端请求的方法类型和签名判断
