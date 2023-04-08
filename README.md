@@ -1,7 +1,8 @@
 ## lee_food
-- 简约版版单店铺点餐系统_小程序点餐后端系统基于node+express+mysql+自定义开发微信小程序支付nodesdk开发，node版本>=v10.15.1
+- 简约版单店铺点餐系统_小程序点餐后端系统基于node+express+mysql+自定义开发微信小程序支付nodesdk开发，node版本>=v10.15.1
 - 安装确保node版本>=v10.15.1,进入项目根目录如下:
 - npm install
+- 交流联系方式:qq:466232689 微信:lifeingspring
 
 ## 包含主要功能应用程序接口如下:
 - 1.小程序lee_food用户授权登录接口。
